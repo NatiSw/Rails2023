@@ -67,6 +67,5 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
-  config.hosts << "natisw-friendly-space-lamp-rjjx5xvrv4w3xx67-3000.preview.app.github.dev"
-
+  config.hosts << "natisw-turbo-barnacle-jxxgpgw4gv7h5xqw-3000.preview.app.github.dev"
 end
