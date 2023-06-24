@@ -31,3 +31,13 @@
 
 en:
   hello: "Hello world"
+  activerecord:
+    attributes:
+      task:
+        name: 'Nazwa'
+    errors:
+      models:
+        task:
+          attributes:
+            name:
+              too_short: " jest za krotka"
